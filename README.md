@@ -34,6 +34,8 @@ Clicking **“Generate Sheet”** in Power Apps triggers a Power Automate flow t
 Generated sheets are archived in a SharePoint list or library, with metadata stored for auditing and retrieval.
 
 All components—Power Apps, the flow, environment variables—are bundled into a single Power Platform **Solution** named **Product Sheet Generator**.
+![image](https://github.com/user-attachments/assets/3f44f6d6-573e-464f-986d-8ff964b6c183)
+
 
 ---
 
